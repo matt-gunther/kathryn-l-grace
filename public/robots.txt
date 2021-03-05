@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: kathryn-l-grace.com/sitemap.xml
